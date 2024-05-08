@@ -25,7 +25,7 @@ Visual components and Python
 # Name: THIRISHA A
 
 ## Program:
-
+```
 arr_time=float(input("Enter the mean inter arrival time of objects from Feeder (in secs): "))
 
 ser_time1=float(input("Enter the mean  inter service time of Lathe Machine 1 (in secs) :  "))
@@ -99,7 +99,7 @@ else:
     print("Warning! Objects Over flow will happen in the conveyor")
     
 print("----------------------------------------------------------------------")
-
+```
 ## Output:
 
 ![Screenshot 2024-03-30 143039](https://github.com/thirisha-0610/Open-Jacson-Networks/assets/149347494/c9dbc65a-3cd0-4669-bcc5-cc7fb4ccfbba)
